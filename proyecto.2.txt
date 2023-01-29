@@ -1,0 +1,3 @@
+usuario = input("usuario:")
+nacionalidad = input("nacionalidad del usuario")
+usuario = nacionalidad

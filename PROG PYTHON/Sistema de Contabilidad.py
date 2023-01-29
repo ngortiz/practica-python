@@ -1,0 +1,12 @@
+print("Bienvenido a Contable")
+print("Ingrese su nombre de usuario")
+usuario = input("Usuario: ")
+cliente = input("nombre del cliente: ")
+periodo = input("periodo: ")
+ingreso = input("ingreso: ")
+egresoIVA10 = input("Egreso IVA 10%: ")
+egresoIVA5 = input("Egreso IVA 5%: ") 
+resultado = ingreso - egresoIVA10 - egresoIVA5
+print("resultdo")
+print("El cliente Wildo debe abonar Gs. 50.000 a la firma Nidia")
+print("resultdo")
